@@ -1,0 +1,2 @@
+ALTER TABLE meeting 
+ADD COLUMN clientId int NOT NULL
